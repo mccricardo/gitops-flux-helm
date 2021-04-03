@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: gitops-flux-helm
+  description: Gitops Flux Helm demo
+  tags:
+    - gitops
+spec:
+  type: service
+  lifecycle: production
+  owner: user:guest
