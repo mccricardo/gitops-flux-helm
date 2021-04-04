@@ -5,7 +5,7 @@ We will be deploying [podinfo](https://github.com/stefanprodan/podinfo) with Flu
 ## Requirements
   - [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
   - [k3d](https://k3d.io/)
-  - [flux](https://github.com/fluxcd/flux2#flux-installation
+  - [flux](https://github.com/fluxcd/flux2#flux-installation)
   - [Gitlab account](https://gitlab.com/)
 
 ## Create local cluster
