@@ -1,0 +1,7 @@
+site_name: 'gitops-flux-helm-docs'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
