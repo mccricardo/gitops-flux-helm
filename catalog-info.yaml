@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   annotations:
-    backstage.io/techdocs-ref: url:https://gitlab.com/mccricardo-blog-demos/gitops-flux-helm
+    backstage.io/techdocs-ref: url:https://github.com/mccricardo/gitops-flux-helm
   name: gitops-flux-helm
   description: Gitops Flux Helm demo
   tags:
